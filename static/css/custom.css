@@ -1,0 +1,37 @@
+/* your styles go here */
+
+.me{
+/*padding-right: 15rem;*/
+}
+
+.icons{
+  text-align-last: left;
+}
+.projects{
+    text-align-last: center;
+}
+
+.Linkedin{
+  height: auto;
+  width: 10%;
+  max-width: 150px;
+  max-height: 150px;
+  color:white;
+
+}
+
+.github{
+  height: auto;
+  width: 10%;
+  max-width: 150px;
+  max-height: 150px;
+    color:white;
+}
+
+.resume{
+  height: auto;
+  width: 10%;
+  max-width: 150px;
+  max-height: 150px;
+    color:white;
+}
